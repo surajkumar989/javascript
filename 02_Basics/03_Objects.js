@@ -17,6 +17,7 @@ const myobj={
 myobj.hello=function(){
     console.log("Hello User")
 }
+// To define an object constructor, you create a function that initializes the properties of the object using the this keyword.
 
 myobj.helloUser=function(){
     console.log(`Hello User, ${this.name}`)
