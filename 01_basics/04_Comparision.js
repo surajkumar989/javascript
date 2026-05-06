@@ -17,7 +17,7 @@ console.log(undefined>=0);
 
 
 
-// the reason why te output is false is the check(==) and comparision(<,>,=<,=>) works diffrently
+// the reason why the output is false is the check(==) and comparision(<,>,=<,=>) works differently
 //comparision converts null into the number and treats it as 0
 //thats why (3)null >=0 is true and (1)null >0 is false 
 
