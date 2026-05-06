@@ -3,7 +3,7 @@ console.log(3+
     3); //code readability should be high
 
 
-    console.log("Himanshi");
+    console.log("Himanshu");
 
 
     //datatypes
