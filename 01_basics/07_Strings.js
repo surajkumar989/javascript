@@ -12,6 +12,8 @@ const Carname=new String('Ertiga')
 console.log(Name.length)
 console.log(Surname. toUpperCase(3))
 
+const str = "Suraj";
+console.log(`${str[0]}`);
 
 // Learn the all methods in string we can use
 

@@ -30,7 +30,8 @@ myArr.shift()
 
 // console.log(myArr.indexOf(3))
 // console.log(myArr.length)
-
+// console.log(myArrString[2]);
+// console.log(myArrString.length);
 // console.log(typeof myNew)
 
 //Array slice() and splice().............
